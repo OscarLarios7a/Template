@@ -20,13 +20,13 @@
         <!-- End Left Sidebar  -->
         <!-- Page wrapper  -->
         <div class="page-wrapper">
-
             @yield('content','Mi Sitio')
-            <!-- footer -->
-            @include('includes.footer')
-            <!-- End footer -->
         </div>
         <!-- End Page wrapper  -->
+
+        <!-- footer -->
+        @include('includes.footer')
+        <!-- End footer -->
     </div>
     <!-- End Wrapper -->
     @include('includes.script')

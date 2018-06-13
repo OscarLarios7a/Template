@@ -1,5 +1,4 @@
-<!-- All Jquery -->
-<script src="{{asset('js/lib/jquery/jquery.min.js')}}"></script>
+
 <!-- Bootstrap tether Core JavaScript -->
 <script src="{{asset('js/lib/bootstrap/js/popper.min.js')}}"></script>
 <script src="{{asset('js/lib/bootstrap/js/bootstrap.min.js')}}"></script>
